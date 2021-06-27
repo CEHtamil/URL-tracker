@@ -10,7 +10,7 @@ Python 3, requests and colorama libraries.
 ```
 ### Kali Linux / Termux
 ```
-     git clone 
+     git clone https://github.com/CEHtamil/URL-tracker.git
      cd redli
      python3 url.py --track
 ```
